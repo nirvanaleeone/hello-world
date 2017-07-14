@@ -7,3 +7,5 @@ relent
 drop in 
 stumble
 dorm
+Discover interesting projects and people to populate your personal news feed.
+
